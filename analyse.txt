@@ -1,0 +1,3 @@
+Une personne peut passer une ou plusieurs commandes.
+Une commande peut n'appartenir à un seul client
+Une personne peut choisir un mode de livraison
